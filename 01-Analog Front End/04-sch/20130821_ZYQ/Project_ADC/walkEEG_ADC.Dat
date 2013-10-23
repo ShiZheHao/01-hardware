@@ -1,0 +1,18 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~walkEEG_ADC.PrjPCB|ReportField=ProjectFullPath~E:\Dropbox\Walk-EEG Share\01-hardware\01-Analog Front End\04-sch\20130808_ZYQ\Project_ADC\walkEEG_ADC.PrjPCB|ReportField=Title~Bill of Materials For Project [walkEEG_ADC.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~79|ReportField=ReportTime~21:28:41|ReportField=ReportDate~2013/8/16|ReportField=ReportDateTime~2013/8/16 21:28:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2013/8/16|ReportField=CurrentTime~21:28:34|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Dropbox\Walk-EEG Share\01-hardware\01-Analog Front End\04-sch\20130808_ZYQ\Project_ADC\ADC.SchDoc|ReportField=DocumentName~ADC.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2013/8/14|ReportField=Organization~|ReportField=ProjectName~walkEEG_ADC.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~walkEEG_ADC.PrjPCB|ReportField=DataSourceFullPath~E:\Dropbox\Walk-EEG Share\01-hardware\01-Analog Front End\04-sch\20130808_ZYQ\Project_ADC\walkEEG_ADC.PrjPCB
+Battery|Multicell Battery|BT1|BAT-2|Battery|1
+Cap|Capacitor|C1, C3, C4, C5, C6, C7, C8, C9|0402|Cap|8
+|Capacitor (Semiconductor SIM Model), Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor|C2, R1, R2, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22|0402|Cap Semi, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3, Res3|22
+Cap|Capacitor|C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25|1608[0603]|Cap|16
+10u|Capacitor|C26, C27, C29, C31|C1206|CAPACITOR POL|4
+Cap|Capacitor|C28, C30|0603|Cap|2
+FXO-HC73||Os1|PCBComponent_1|FXO-HC73|1
+Header 2|Header, 2-Pin|P1, P3, P4, P6, P18, P19|HDR1X2|Header 2|6
+Header 3|Header, 3-Pin|P2, P16, P17|HDR1X3|Header 3|3
+Header 5X2|Header, 5-Pin, Dual row|P5|HDR2X5|Header 5X2|1
+Plug|Plug|P7, P8, P9, P11, P12, P13, P14, P15|PIN1|Plug|8
+Header 16X2|Header, 16-Pin, Dual row|P10|HDR2X16|Header 16X2|1
+Res Tap|Tapped Resistor|R3|VR4|Res Tap|1
+ADS1298_PAG_64|Imported|U1|PAG64|ADS1298_PAG_64|1
+ADUM1401|ADI isolation|U2|SOIC_W|ADUM1401|1
+ADUM1402||U3|SOIC_W|ADUM1402|1
+ADP151AUJZ-1.5-R|Imported|U4, U5|UJ_5|ADP151AUJZ-1.5-R|2

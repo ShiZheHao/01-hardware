@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [walkEEG_ADC.PrjPCB]
+   Generated File[On_board_front_end.BOM]
+   Generated File[On_board_front_end.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 8:49:02 On 2013/8/17
